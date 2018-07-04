@@ -1,2 +1,2 @@
 # blog-graphql-api
-Typical Blog API with GraphQL and MongoDB
+Typical Blog GraphQL API with MongoDB
